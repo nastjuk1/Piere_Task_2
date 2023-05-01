@@ -1,0 +1,53 @@
+
+.navbar-back {
+    position: absolute;
+    width: 1366px;
+    height: 722px;
+    left: 0px;
+    top: 47px;
+}
+/*
+@media screen and (max-width: 320px) {
+    .navbar-back img {
+        position: absolute;
+        width: 320px;
+        height: 169px;
+        left: 0px;
+        top: 49px;
+    }
+
+    .navbar-logo img {
+        position: absolute;
+        width: 78px;
+        height: 72px;
+        left: -23px;
+        top: 0px;
+    }
+
+    .panel-1,
+    .panel-2,
+    .panel-3,
+    .panel-4,
+    .panel-5,
+    .panel-6,
+    .panel-7 {
+        display: none;
+    }
+
+    .panel-mobile {
+        display: block;
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        left: 285px;
+        top: 18px;
+    }
+}
+
+@media screen and (min-width: 321px) {
+    .panel-mobile {
+        display: none;
+    }
+}
+*/
+.navbar-back1,.navbar-logo{top:0;position:absolute}.container,.navbar-back1,.navbar-logo,header a{position:absolute}h1,header a{font-family:Montserrat;font-size:18px;line-height:22px}.navbar-main-inner h1,h1,p{font-style:normal;color:#2f4858;text-align:center}.name,.navbar-main span{display:flex;align-items:center}.navbar-back1{left:0}.navbar-logo{width:159px;height:146px;left:62px}header a{top:51px;font-style:normal;font-weight:500;text-decoration:none;color:#060606}.panel-1{width:46px;height:24px;left:305px;top:51px}.panel-2{width:130px;height:24px;left:386px;top:51px}.panel-3{width:120px;height:24px;left:543px;top:51px}.panel-4{width:123px;height:45px;left:698px;top:51px}.panel-5{width:153px;height:45px;left:856px;top:51px}.panel-6,.panel-7{height:29px;top:51px}.panel-6{width:188px;left:1036px}.panel-7{width:29px;left:1275px}.container{width:86px;height:83px;left:640px;top:366px}.picture-1,footer{left:0;position:absolute}footer{width:1366px;height:376px;top:3275px}h1{position:absolute;width:654px;height:114px;left:359px;top:919px;font-weight:400}.picture-1{width:328px;height:355px;top:1197px}.picture-2{position:absolute;width:334px;height:364px;left:328px;top:1202px}.picture-3,.picture-4{width:298px;left:662px;position:absolute}.picture-3{height:180px;top:1202px}.picture-4{height:184px;top:1382px}.picture-5,.picture-6{top:1183px}.picture-5{position:absolute;width:406px;height:383px;left:960px}.picture-6,.picture-7{position:absolute;width:1366px;height:55px;left:0}.picture-7{top:1526px}.main-quastion1{width:394px;height:29px;left:220px;top:1731px}.main-quastion2{width:500px;height:29px;left:698px;top:1731px}.main-button{width:819px;height:48px;left:274px;top:2010px}.button1,.button2,.navbar-main span{position:absolute;top:1810px;width:233px;height:50px}.navbar-main-inner h1,p{position:absolute;font-family:Oswald;font-weight:500;font-size:30px;line-height:44px}.footer-inner a,.footer-inner-inner a,.navbar-main span{font-family:Montserrat;font-style:normal;font-weight:500;color:#fff}.button1{left:300px}.button2{left:832px}.button1-inner{left:360px}.button2-inner{left:893px}.navbar-main span{font-size:18px;line-height:22px;text-align:center}.aside{width:394px;height:29px;left:486px;top:2927px}.citybeelogo,.teikumslogo{height:80px;position:absolute}.teikumslogo{width:241.95px;left:168px;top:3045px}.semlogo{position:absolute;top:3045.13px;left:495.11px}.citybeelogo{width:238.96px;left:789px;top:3045px}.linearisogo{position:absolute;width:84.77px;height:120px;left:1113px;top:3026px}.goldenlogo{position:absolute;height:182px;width:182px;left:62px;top:73px;border-radius:0}.navbar-back4,.union{position:absolute;left:0;right:0;top:0;bottom:0}.footer-inner a{position:absolute;font-size:18px;line-height:22px;text-decoration:none}.footer-inner1{left:28.11%;right:66.91%;top:18.88%;bottom:74.73%}.footer-inner2{left:27.89%;right:58.78%;top:30.85%;bottom:62.77%}.footer-inner3{left:27.89%;right:59%;top:42.82%;bottom:50.8%}.footer-inner4{left:27.89%;right:63.1%;top:53.72%;bottom:34.31%}.footer-inner5{left:27.89%;right:59%;top:65.43%;bottom:22.61%}.footer-inner6{left:27.89%;right:59%;top:77.39%;bottom:14.89%}.footer-inner-inner a{font-size:24px;line-height:29px}.footer-end a,.footerfooter a,.oblig,.oblig-1{font-size:14px;line-height:17px}.oblig,.oblig-1{font-family:Montserrat;font-style:normal;font-weight:400;color:#2f4858}.inner1{position:absolute;left:47%;right:31.99%;top:18.62%;bottom:75%}.inner2{position:absolute;left:84%;right:4.69%;top:18.88%;bottom:69.15%}.inner1-1,.inner1-2,.inner1-3{position:absolute;left:47%;right:32.58%}.inner1-1{top:30.85%;bottom:62.77%}.inner1-2{top:39.89%;bottom:53.99%}.inner1-3{top:48.4%;bottom:46.54%}.inner2-1,.inner2-2,.inner2-3{right:4.69%;position:absolute;text-align:right}.inner2-1{left:66.47%;top:31.64%;bottom:63.3%}.inner2-2{left:81.99%;top:39.89%;bottom:54.52%}.inner2-3{left:72.25%;top:48.14%;bottom:46.01%}.footerfooter a{position:absolute;left:4.54%;right:82.14%;top:86.44%;bottom:3.46%}.navbar-back2{position:absolute;width:1366px;height:481.59px;left:0;top:2827px}.facebook,.instagram{position:absolute;top:67.82%;bottom:22.61%}.facebook{left:89.39%;right:9.3%}.instagram{left:92.83%;right:4.54%}.email,.name{position:absolute;width:296px;top:2113px}.footer-end a{position:absolute;left:81.55%;right:4.54%;top:90.96%;bottom:5.32%;text-align:right}.name{height:43px;left:377px;background:rgba(196,196,196,.4);border-radius:6px}.email,.phone-number{height:43px;align-items:center}.comment textarea,.email input[type=email],.name input[type=text],.phone-number input[type=tel]{border:none;background:0 0;font-family:Montserrat;font-style:normal;font-weight:400;font-size:18px;line-height:22px;display:block;width:100%;height:100%;padding:10px;letter-spacing:-.015em;color:#2f4858;outline:0}.comment,.email,.phone-number{background:rgba(196,196,196,.4);border-radius:6px;display:flex}.email{left:693px}.comment,.oblig,.phone-number{width:612px;left:377px;position:absolute}.phone-number{top:2171px}.comment{height:232px;top:2229px;align-items:center;padding:10px;box-sizing:border-box}.oblig{height:25px;top:2476px}.check_box{position:absolute;width:16px;height:16px;left:380px;top:2529px;background:#e7e7e7;border-radius:3px}.oblig-1{position:absolute;width:572px;height:39px;left:417px;top:2526px}.send{position:absolute;width:182px;height:62px;left:592px;top:2615px}.submit-button:hover{cursor:pointer}
